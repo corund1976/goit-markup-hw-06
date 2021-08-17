@@ -674,9 +674,8 @@ img {
   margin-bottom: 20px;
 }
 
-.subscription-form-field {
+.subscription-form {
   display: flex;
-  /* margin-left: auto; */
 }
 
 .subscription-form-input {
